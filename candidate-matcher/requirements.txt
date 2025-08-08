@@ -2,5 +2,5 @@ streamlit
 sentence-transformers
 scikit-learn
 python-dotenv
-openai
+openai==0.28.1
 PyPDF2

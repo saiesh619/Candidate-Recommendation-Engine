@@ -6,7 +6,7 @@ import PyPDF2
 import io
 
 # --- Page Config ---
-st.set_page_config(page_title="Candidate Matcher", page_icon="🔍", layout="wide")
+st.set_page_config(page_title="Candidate Matcher", layout="wide")
 
 # --- Title ---
 st.title(" AI-Powered Candidate Matcher")

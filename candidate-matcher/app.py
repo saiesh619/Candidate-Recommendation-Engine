@@ -9,7 +9,7 @@ import io
 st.set_page_config(page_title="Candidate Matcher", page_icon="🔍", layout="wide")
 
 # --- Title ---
-st.title("🔍 AI-Powered Candidate Matcher")
+st.title(" AI-Powered Candidate Matcher")
 st.markdown("Match resumes to your job description using semantic similarity.")
 
 # --- Job Description Input ---
